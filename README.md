@@ -1,2 +1,2 @@
 # fPQR-master-thesis
-Simulations to test PCR, PLS and fPQR and in-depth analysis of the WRDS Financial Ratio dataset using PLS and fPQR
+Simulations to test PCR, PLS and fPQR and in-depth analysis of the WRDS Financial Ratio dataset using PLS and fPQR. The folder contains pikle files needed to compute the plots for the optimal number of components in fPQR based on the quantile error. There are three file containing the analysis of specific quantile levels in the WIFR dataset. Finally, the main file is named Master Thesis fPQR.
